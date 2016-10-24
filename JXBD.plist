@@ -23,7 +23,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://120.209.149.134:8081/sys/download/iosFile.shtml</string>
+					<string>http://120.209.149.134:8081/static/downloadFile/ios/fhtcx_v1.0.4.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
